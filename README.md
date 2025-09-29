@@ -1,33 +1,42 @@
-<!-- Capa mínima, limpa e com CTA -->
+<!-- Retro 8‑bit GitHub profile README for Davi Ponce Manieri --> <p align="center"> <!-- Animated 8‑bit style header using a monospace retro font --> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+HELLO+WORLD;>+I'M+DAVI+PONCE+MANIERI;>+SOFTWARE+ENGINEER;>+PIXEL+ART+DEV" alt="retro header" /> </p>
+👾 Sobre mim
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&text=Rei%20Manieri&fontAlign=50&desc=Criador%20de%20conte%C3%BAdo%20%7C%20Android%20%7C%20n8n%20%7C%20IA&descAlign=50" />
-</p>
+Sou engenheiro de computação formado pela UNIVESP e técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Crio conteúdo focado em programação, automação e inteligência artificial. Faço parte da comunidade FlutterFlow (membro desde junho de 2024
+community.flutterflow.io
+), onde contribuo com dúvidas e sugestões sobre desempenho das ferramentas.
 
-### 🚀 O que eu faço
-Crio apps Android e automações n8n para acelerar negócios. Aqui posto código, agentes e tutoriais práticos.
+Atualmente construo aplicativos Android com Kotlin e frameworks modernos, APIs em Node.js/Express e scripts Python para automação. Nas horas vagas estudo design de jogos e pixel art, sempre mantendo a estética 8‑bit no código e no visual.
 
-### 🧰 Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin)
-![Android](https://img.shields.io/badge/Android-000?logo=android)
-![n8n](https://img.shields.io/badge/n8n-000?logo=n8n)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions)
+🛠️ Stack principal
 
-### 📦 Projetos em destaque
-- **Rasther DS (Android)** · leitura de ECU, Room, coroutines  
-- **Agentes n8n** · transcrição de áudios, newsletter builder, auditor de segurança  
-- **Newsletter HTML** · templates com CTA e métricas
 
-### 📈 Estatísticas
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_title=true" />
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=transparent" />
-</p>
 
-### 🐍 O snake da contribuição
-![snake gif](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
 
-### 📫 Contato
-**Instagram:** @semcodar • **Email:** seuemail@exemplo.com
+
+
+
+
+
+
+
+
+🕹️ Projetos em destaque
+Projeto	Descrição
+rasther_ds_android	Aplicativo Android para leitura de dados de ECU usando Room, coroutines e arquitetura MVVM. Documentação de código e testes unitários.
+newsletter_builder	Ferramenta CLI escrita em Node.js para gerar boletins HTML responsivos. Inclui parser Markdown → HTML e métricas de engajamento.
+audios_ai	Pipeline Python que transcreve áudios, remove ruído e gera resumos usando modelos de IA. Encaixa em tarefas de pós‑produção de podcasts.
+site_comet	Landing page estática construída com HTML5 e Tailwind CSS, pronta para ser hospedada no GitHub Pages. Possui testes Lighthouse com 100% de performance e acessibilidade.
+sem_codar_assets	Repositório de assets (ícones, sprites 8‑bit e fontes bitmap) usados nos meus projetos e na comunidade. Organizado por categorias.
+📈 Estatísticas no GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&theme=radical&show_icons=true&bg_color=00000000&title_color=00FF00&icon_color=FF00FF&text_color=00FF00" height="140" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&background=00000000&ring=FF00FF&fire=FF0000&currStreakLabel=00FF00" height="140" alt="GitHub streak" /> </p>
+🐍 Contribuições
+
+📬 Contato
+
+Instagram: @semcodar
+
+LinkedIn: Davi Ponce Manieri
+
+Email: seuemail@exemplo.com
+
+<!-- Substitua SEU-USUARIO pelo seu usuário do GitHub. Esta seção foi construída para destacar habilidades de programação e projetos técnicos, excluindo ferramentas low‑code, conforme solicitado. As estatísticas utilizam temas de cores neon para combinar com a estética 8‑bit. -->
