@@ -1,42 +1,62 @@
-<!-- Retro 8‑bit GitHub profile README for Davi Ponce Manieri --> <p align="center"> <!-- Animated 8‑bit style header using a monospace retro font --> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>+HELLO+WORLD;>+I'M+DAVI+PONCE+MANIERI;>+SOFTWARE+ENGINEER;>+PIXEL+ART+DEV" alt="retro header" /> </p>
-👾 Sobre mim
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%20World-Welcome%21-2E8B57?style=for-the-badge&logo=github" alt="Hello World Badge"/>
+</p>
 
-Sou engenheiro de computação formado pela UNIVESP e técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Crio conteúdo focado em programação, automação e inteligência artificial. Faço parte da comunidade FlutterFlow (membro desde junho de 2024
-community.flutterflow.io
-), onde contribuo com dúvidas e sugestões sobre desempenho das ferramentas.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=DAVI+PONCE+MANIERI;SOFTWARE+ENGINEER;PIXEL+ART+DEV" alt="Retro Header">
+</p>
 
-Atualmente construo aplicativos Android com Kotlin e frameworks modernos, APIs em Node.js/Express e scripts Python para automação. Nas horas vagas estudo design de jogos e pixel art, sempre mantendo a estética 8‑bit no código e no visual.
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8gQhT1qJ6gRz9kR/giphy.gif" width="150" alt="Pixel Art Coding GIF">
+</p>
 
-🛠️ Stack principal
+---
 
+## 👾 SOBRE MIM
 
+Engenheiro de Computação pela UNIVESP e Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Dedico-me à criação de conteúdo focado em programação, automação e inteligência artificial.
 
+Membro ativo da comunidade FlutterFlow (desde junho de 2024), contribuindo com insights sobre desempenho e melhores práticas. Minha paixão por **pixel art** e design de jogos influencia a estética 8-bit que busco em meus projetos.
 
+---
 
+## 🛠️ STACK PRINCIPAL
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-00FF00?style=for-the-badge&logo=kotlin&logoColor=white&color=000000" alt="Kotlin Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-FF00FF?style=for-the-badge&logo=node.js&logoColor=white&color=000000" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-00FFFF?style=for-the-badge&logo=express&logoColor=white&color=000000" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white&color=000000" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Android-FFA500?style=for-the-badge&logo=android&logoColor=white&color=000000" alt="Android Badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-00FF00?style=for-the-badge&logo=tailwindcss&logoColor=white&color=000000" alt="TailwindCSS Badge"/>
+</p>
 
+---
 
+## 🕹️ PROJETOS EM DESTAQUE
 
+| Projeto              | Descrição                                                                                                                              |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| `rasther_ds_android` | Aplicativo Android para leitura de dados de ECU (Room, coroutines, MVVM). Inclui documentação e testes unitários.                      |
+| `newsletter_builder` | Ferramenta CLI (Node.js) para gerar newsletters HTML responsivas, com parser Markdown e métricas de engajamento.                       |
+| `audios_ai`          | Pipeline Python para transcrição, remoção de ruído e sumarização de áudios usando IA, ideal para pós-produção de podcasts.           |
+| `site_comet`         | Landing page estática (HTML5, Tailwind CSS), otimizada para GitHub Pages (Lighthouse 100% Performance/Acessibilidade).              |
+| `sem_codar_assets`   | Repositório de assets 8-bit (ícones, sprites, fontes bitmap) para uso em projetos e na comunidade, organizado por categorias.        |
 
+---
 
+## 📈 ESTATÍSTICAS NO GITHUB
 
-🕹️ Projetos em destaque
-Projeto	Descrição
-rasther_ds_android	Aplicativo Android para leitura de dados de ECU usando Room, coroutines e arquitetura MVVM. Documentação de código e testes unitários.
-newsletter_builder	Ferramenta CLI escrita em Node.js para gerar boletins HTML responsivos. Inclui parser Markdown → HTML e métricas de engajamento.
-audios_ai	Pipeline Python que transcreve áudios, remove ruído e gera resumos usando modelos de IA. Encaixa em tarefas de pós‑produção de podcasts.
-site_comet	Landing page estática construída com HTML5 e Tailwind CSS, pronta para ser hospedada no GitHub Pages. Possui testes Lighthouse com 100% de performance e acessibilidade.
-sem_codar_assets	Repositório de assets (ícones, sprites 8‑bit e fontes bitmap) usados nos meus projetos e na comunidade. Organizado por categorias.
-📈 Estatísticas no GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&theme=radical&show_icons=true&bg_color=00000000&title_color=00FF00&icon_color=FF00FF&text_color=00FF00" height="140" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&background=00000000&ring=FF00FF&fire=FF0000&currStreakLabel=00FF00" height="140" alt="GitHub streak" /> </p>
-🐍 Contribuições
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviManieri&theme=dark&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FF00FF&text_color=00FFFF" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviManieri&theme=dark&background=000000&ring=FF00FF&fire=FF0000&currStreakLabel=00FF00&stroke=000000" height="150" alt="GitHub streak"/>
+</p>
+---
 
-📬 Contato
+## 📬 CONTATO
 
-Instagram: @semcodar
+**Instagram:** [@semcodar](https://www.instagram.com/semcodar/)
+**LinkedIn:** [Davi Ponce Manieri](https://www.linkedin.com/in/davi-ponce-manieri-65a519213/)
+**Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
 
-LinkedIn: Davi Ponce Manieri
-
-Email: seuemail@exemplo.com
-
-<!-- Substitua SEU-USUARIO pelo seu usuário do GitHub. Esta seção foi construída para destacar habilidades de programação e projetos técnicos, excluindo ferramentas low‑code, conforme solicitado. As estatísticas utilizam temas de cores neon para combinar com a estética 8‑bit. -->
+---
