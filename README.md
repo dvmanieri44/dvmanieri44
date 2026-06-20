@@ -1,37 +1,43 @@
-# Olá, eu sou o Davi Manieri
+<h1 align="center">Davi Manieri</h1>
 
-Desenvolvedor Android focado em Kotlin, Jetpack Compose e arquitetura de software.
+<p align="center">
+Android Developer • Kotlin • Jetpack Compose • Software Engineering
+</p>
 
-Atualmente trabalho na Tecnomotor desenvolvendo soluções mobile, integrações com sistemas embarcados e aplicações voltadas para diagnóstico automotivo.
+---
 
-Também estudo Engenharia da Computação e venho evoluindo em backend, microsserviços, Docker, Cloud Run e uso prático de IA no desenvolvimento de software.
+### Sobre mim
 
-## Tecnologias
+📱 Desenvolvedor Android na Tecnomotor
 
-- Kotlin
-- Android
-- Jetpack Compose
-- Java
-- Spring Boot
-- Docker
-- Git/GitHub
-- Firebase
-- SQL
-- Clean Architecture
-- MVI/MVVM
+🎓 Estudante de Engenharia da Computação
 
-## Projetos em destaque
+🚀 Apaixonado por arquitetura de software, IA e desenvolvimento mobile
 
-### Launcher No Dopamina
-Aplicativo Android focado em produtividade e controle de uso de apps.
+📚 Evoluindo constantemente em inglês e engenharia de software
 
-### API de Sugestão de Grupos de Leituras
-API em Kotlin/Spring Boot usando IA para sugerir agrupamentos de leituras automotivas.
+---
 
-### Lista de Compras
-Aplicativo Android simples usando Jetpack Compose e gerenciamento de estado.
+### Stack
 
-## Contato
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- LinkedIn: coloque seu link aqui
-- GitHub: coloque seu link aqui
+---
+
+### Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvmanieri44&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvmanieri44&layout=compact)
+
+---
+
+### Contato
+
+💼 LinkedIn
+
+📧 dvponce3@gmail.com
