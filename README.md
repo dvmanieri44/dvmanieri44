@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Email-dvponce3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="tel:+5516997037115">
-    <img src="https://img.shields.io/badge/Contact-(16)%2099703--7115-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
 
 ---
