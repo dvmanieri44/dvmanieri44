@@ -1,43 +1,87 @@
 <h1 align="center">Davi Manieri</h1>
 
 <p align="center">
-Android Developer • Kotlin • Jetpack Compose • Software Engineering
+  Android Developer • Kotlin • Jetpack Compose • Software Engineering
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-ponce-manieri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Manieri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dvponce3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### Sobre mim
+### About Me
 
-📱 Desenvolvedor Android na Tecnomotor
-
-🎓 Estudante de Engenharia da Computação
-
-🚀 Apaixonado por arquitetura de software, IA e desenvolvimento mobile
-
-📚 Evoluindo constantemente em inglês e engenharia de software
+- 📱 Android Developer at :contentReference[oaicite:0]{index=0}
+- 🎓 Computer Engineering Student
+- 🚀 Passionate about Mobile Development, Software Architecture and AI
+- 📚 Actively improving my English and software engineering skills
 
 ---
 
-### Stack
+### Tech Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,docker,firebase,git,github,postgresql" />
+</p>
 
 ---
 
-### Estatísticas
+### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvmanieri44&show_icons=true)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=dvmanieri44&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=dvmanieri44&show_icons=true&theme=default&hide_border=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=dvmanieri44&show_icons=true&hide_border=true"
+    />
+  </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvmanieri44&layout=compact)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvmanieri44&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dvmanieri44&layout=compact&theme=default&hide_border=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvmanieri44&layout=compact&hide_border=true"
+    />
+  </picture>
+</p>
 
 ---
 
-### Contato
+### Featured Projects
 
-💼 LinkedIn
+- 🚀 Launcher No Dopamina
+- 📱 Android Apps with Jetpack Compose
+- 🤖 AI-powered APIs with Kotlin & Spring Boot
+- 📦 ERP Inventory Management System
 
-📧 dvponce3@gmail.com
+---
+
+### Current Focus
+
+- Clean Architecture
+- MVI & MVVM
+- Microservices
+- Docker & Cloud Run
+- Artificial Intelligence
+- Advanced English
